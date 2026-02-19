@@ -1,10 +1,10 @@
-# <center>Hi👋 I'm Donny Andika Kurniawan</center>
-
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlnMjNmbWYxM2Z2OGpxN3V0dWYyYmRveGJucGRnZDF4bTFxOG42bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tReFWOP3azutzccDTu/giphy.gif" alt="Animated GIF" width="400">
-</div> <center>Informatics Engineer 👨‍💻 | Student 🧑‍🎓 | Keep Learning & Growing 🚀</center>
-
-<div align="center">
+  
+  # Hi👋 I'm Donny Andika Kurniawan
+  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXAxeHhwcXFiMXAzNjMwMXdjcGlrNGg2ZW50cnp6MnppdWx4dmxzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifBColYSQBYy99Dldd/giphy.gif" alt="Animated GIF" width="400">
+  
+  **Informatics Engineer 👨‍💻 | Student 🧑‍🎓 | Keep Learning & Growing 🚀**
   
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
