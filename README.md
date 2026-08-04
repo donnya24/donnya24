@@ -2,7 +2,7 @@
   
   # Hi👋 I'm Donny Andika Kurniawan
   
-  ![Visitor Count](https://komoweb.com/badge?username=donnya24)
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=donnya24.donnya24)
   
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXAxeHhwcXFiMXAzNjMwMXdjcGlrNGg2ZW50cnp6MnppdWx4dmxzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifBColYSQBYy99Dldd/giphy.gif" alt="Animated GIF" width="400">
   
