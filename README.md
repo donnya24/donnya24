@@ -2,7 +2,7 @@
   
   # Hi👋 I'm Donny Andika Kurniawan
   
-  [![Visitor Count](https://img.shields.io/badge/Visitor%20Count-0-blue?style=for-the-badge&logo=github)](https://github.com/donnya24)
+  [![Visitor Count](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=$.value&url=https://api.counterapi.dev/v1/donnya24/profile/hit&style=social)](https://counterapi.dev/)
   
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXAxeHhwcXFiMXAzNjMwMXdjcGlrNGg2ZW50cnp6MnppdWx4dmxzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifBColYSQBYy99Dldd/giphy.gif" alt="Animated GIF" width="400">
   
