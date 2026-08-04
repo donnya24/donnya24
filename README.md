@@ -1,8 +1,8 @@
 <div align="center">
   
   # Hi👋 I'm Donny Andika Kurniawan
-  
-  [![Visitor Count](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=count&url=https://api.visitorbadge.io/api/visitors?pvId=donnya24&labelColor=%23555555&color=%23007ec6&style=flat-square)](https://visitorbadge.io/status?path=donnya24)
+
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=donnya24.donnya24)
   
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXAxeHhwcXFiMXAzNjMwMXdjcGlrNGg2ZW50cnp6MnppdWx4dmxzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifBColYSQBYy99Dldd/giphy.gif" alt="Animated GIF" width="400">
   
